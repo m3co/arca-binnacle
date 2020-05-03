@@ -38,5 +38,5 @@ module.exports = {
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
   },
-  'parser': '@typescript-eslint/parser',
+  parser: '@typescript-eslint/parser',
 };
